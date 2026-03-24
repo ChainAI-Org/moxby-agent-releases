@@ -1,34 +1,34 @@
 {
-  "version": "0.94.35",
+  "version": "0.94.36",
   "notes": "",
-  "pub_date": "2026-03-24T04:13:26.839Z",
+  "pub_date": "2026-03-24T05:38:52.428Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQWNyOVgyMHBFSjZJRUtTaTVxemtOQ0xGdHRGTlpZOXhUWHduTFhKemNrNFVzODM5cDNLNEVEM3E1cGVrdThRbVJJdGIyeTdwdWdSMkNZeExqUE9hN3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzIzMDExCWZpbGU6TW94YnkuYXBwLnRhci5negpnWVM0eVR2N21lbzRPekpOOVhoTVZJZ0t3cnFNdXRPMFdVY3RaYnQyZ1VMUXNBQ0UwbWhBN2tjRFpLa0VVU2NuTVh2Q3A5OGhoZ2JMVUY4UHU5cVFCdz09Cg==",
-      "url": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/v0.94.35/Moxby_arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQWRKVXlQR2FGRGV5VC92bFJlK1BYa1RaczMxSjRXc3B5NWcxVHZrNnJUeEpja2x1Rm43dzlvY0ZkZ0pHVlVQd3MzdWVvcGh5eVdlcnRsdUp6S3REZWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzI4MjQwCWZpbGU6TW94YnkuYXBwLnRhci5nego5dnpndnM2YlVTa3BaQTkycGxhdkR0UXZKSDNQVzFncmFZUUFjTFIwVG1qL05SK0hOeCthRGtDeHg0RFpZd3RObWZWVFVqVm5pT2I3cDFjNnNUWlJBdz09Cg==",
+      "url": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/v0.94.36/Moxby_arm64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQVV4dm1lY2UrdHloVURnbkV4eGdSS2I0b2tFcnZ0azh2OWdEUXhSdXlOcGh6NThDM3lTcHN4bmJQWlFxSGdaVW1WeHJHOVk0NnIxMjNBcks3b2hMZUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzIyOTQ1CWZpbGU6TW94YnkuYXBwLnRhci5negpBSmtrSGsxODNVV3BlcFltQjdNN0tqdDdSVjdZU0k1eE53czh2WnI4djZZQTl6T1RDS0t2ME5xemkxb1J5YmFuMkxxTlRxWndBaFFQREd2QklUT0NBZz09Cg==",
-      "url": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/v0.94.35/Moxby_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQVlYR3NoWmxOWmJVdWdIUHhlN0krS1dCRWNiOENVY3NCRXcybVd1ckhxTHJreVVld2RMTDIwK2x3R0NoV1RzUlROYit2V1l1N0RaRGd2L0gwT0FKZXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzI4NzE2CWZpbGU6TW94YnkuYXBwLnRhci5negpkMHZZVWpzTXJIS09kNlRJMHQ4NkEvdzFMMTZQTy9aYmplMk1pSlFaZU9XeWE4Vk40QnduRlhNVGQxWDIzWnhDWHRDNUExelFRUURGcUNjOFRwdFZEQT09Cg==",
+      "url": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/v0.94.36/Moxby_x64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQWJnTGc1bEc3cVpFY1FCcWR0VEdPN0N0c1ZNUGJoR0k3dms0YU1oMXNTVytqK0Nud2ZsUHkwUDhjR05hSndLU2hLZWxLU0dsTHF4UDVXRWwxakVTekFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzI0OTA4CWZpbGU6TW94YnlfMC45NC4zNV94NjQtc2V0dXAuZXhlCmc0Z1NvWW5WTVZLVkVDWWRWWXNsV09xSGtCbG5zQXdXdEhqRFdROWhlVFF5V3VoRE1iL2ZRTzlIWGFCQ3RxUjlSbmRKVDlWL2lDQnZ0N05RKyt5bER3PT0K",
-      "url": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/v0.94.35/Moxby_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQVJyL1NTb09MVmYvUHBLb3NFNUxzWFg2ZnhHTlFxbEpHTHNzdGZJTnVDZTdzRndjQXRVY2lLSEtOVkwxS05IUjhOMFRWLzdaeXdYR3BaeTRmR2R1SXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzMwMTgxCWZpbGU6TW94YnlfMC45NC4zNl94NjQtc2V0dXAuZXhlCmhmdFRQWkRTWlhnTFpzY1pjZ1VtUmRwbzA3eDNPYzVPVkVsK3AyQ3J6a0dMeStyZm5UbC8vbXpMeW9Fd2xGbzI1ZVVyQ2pWSVNxdUV0Nkw0bExDeUN3PT0K",
+      "url": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/v0.94.36/Moxby_x64-setup.exe"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQWNJMUxqR3BxRVQyUU9PNHRvNkdER09MZkU0eWFnYmJDbmQxRTlZN283NG1yc0pWUzFLNlE3cUUxUG9xdUs3RjRycUpzYU90UGYxQytMRVIzUlpwK0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzI1MjA3CWZpbGU6TW94YnlfMC45NC4zNV9hcm02NC1zZXR1cC5leGUKZUl3T29TTXROcUJhWUd5ZWoyUVBsWXArekhKYWpyUXZFdUJma1JvR2hCdFhJSDNsZFFHNk9BdlBwdFlqaXc2bnNZUHVhdFoyME94cGFEK3c5YlhvRFE9PQo=",
-      "url": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/v0.94.35/Moxby_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQWNRbEw3OXZvZ01GUmk1OFlXVi9YdDVyQUZROExrbWNVSkNMdEtldHJBNjkybmtSSVhhK09Xems4VlpKWjU3MkNveUJxZTNRMVpwWUtkTkEzN3pTY3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzMwMzQ1CWZpbGU6TW94YnlfMC45NC4zNl9hcm02NC1zZXR1cC5leGUKY2lXWk0wZGZxTGdWQ24rZi9UZVpxOHNRU0lSM0VOMTZNbVlBb1dMaCtXUkRLQ0RWclg2ZG9qdFRCTXAyblBkcE91RzBQNjZyZGR5YW9MdDdDdG9hRHc9PQo=",
+      "url": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/v0.94.36/Moxby_arm64-setup.exe"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQWVhQytrZmZyczJxbjdZU3FzTlJlV1BFU1ZKS0JWamJ3VjVnWERCSDB1TmVJcCtvZFhKYWl5SGdtS05XTjZaV21ybDB0ZXI0RGx0NERJRzkzQzBMalE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzIzNTExCWZpbGU6TW94YnlfMC45NC4zNV9hbWQ2NC5BcHBJbWFnZQpmQWlHTVhUZXhmbnpCaHp5cHpTdGxTK3hzTlcwN3FvaFFPQ1VyYm1ZRnRqR0NBbHZqYUd2SWd4bUk5cHQvVnprZWZZMVRXOEhBdmxFL2FZWlJUc3hDQT09Cg==",
-      "url": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/v0.94.35/Moxby_x64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQWNydnBRZlphbGwwNE5Ua2ZXZUpycmJxNlozNjArcUZDMjJyTWZQQjNTaWJzMjBDSXlIWEpmSVkzclhicXFaTW9uNTlkUVphaWkybXFlVzBZdWxCd0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzI4ODc0CWZpbGU6TW94YnlfMC45NC4zNl9hbWQ2NC5BcHBJbWFnZQpHK1E0c3krekNGc0dYaU9QQ3NveFB6MGw4ZTJla0xrWWhqNDVKN3A2U2hvMTRCdVpjUDQydTU0QUhYSnYxTSt2S3Y3SEdieHhnb3BRWk92Qk92UHZCQT09Cg==",
+      "url": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/v0.94.36/Moxby_x64.AppImage"
     }
   },
   "downloads": {
-    "macos-arm64": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/v0.94.35/Moxby-Agent_arm64.dmg",
-    "macos-x64": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/v0.94.35/Moxby-Agent_x64.dmg",
-    "windows-x64": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/v0.94.35/Moxby-Agent_x64-setup.exe",
-    "windows-arm64": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/v0.94.35/Moxby-Agent_arm64-setup.exe",
-    "linux-x64": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/v0.94.35/Moxby_x64.AppImage"
+    "macos-arm64": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/v0.94.36/Moxby-Agent_arm64.dmg",
+    "macos-x64": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/v0.94.36/Moxby-Agent_x64.dmg",
+    "windows-x64": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/v0.94.36/Moxby-Agent_x64-setup.exe",
+    "windows-arm64": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/v0.94.36/Moxby-Agent_arm64-setup.exe",
+    "linux-x64": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/v0.94.36/Moxby_x64.AppImage"
   }
 }
