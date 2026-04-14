@@ -1,10 +1,10 @@
 {
   "version": "1.0.7",
   "notes": "",
-  "pub_date": "2026-04-14T05:00:03.537Z",
+  "pub_date": "2026-04-14T17:02:39.307Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQVphV0ZWRmg3TlkwUEpibWN2MXMrMUo2MXV2a3lrRVVrYVN5aEcwUGFjYTE2VndYUEtsaTZaYUpyNDZnTElzdlp5Tm9OdjU2aWx4ZkkxTWxRSTNRc1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTQyMDI3CWZpbGU6TW94YnkuYXBwLnRhci5negpjcnBNWjB6L2loQXlRYVdtNmcvQkpwd0tzMTMvME9SUzIzSytWZERNQ1h5U29MMkI2QjVRVTMzcGtvejdaaCtPTnJINGNlTmNiTkg3ckYwcnJubVlDQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQWIvNllvcThiUCsyek14N0ZNM0VGUjhPS1lGT0JHQktTSjVzRUhNdTQxYXV5dXlUNkVtc3VtVm5kOTZla2djV2RjMVpTMi81VXJpRkZTeStNa29Nd2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTg1Nzg1CWZpbGU6TW94YnkuYXBwLnRhci5negp4TkVNSnU1Q1BCaDdzQ0tMZzhOOHVqY05BcTd4alVVc0thQmNHbmZKYVZBT0tvRjE0UlphQnMxRzVZQ2p2NFYwcEY3cWVKeW5DNmo3K01jcXZKdXJBZz09Cg==",
       "url": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/v1.0.7/Moxby_arm64.app.tar.gz"
     },
     "darwin-x86_64": {
