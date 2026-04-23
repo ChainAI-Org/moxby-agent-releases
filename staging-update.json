@@ -1,10 +1,10 @@
 {
   "version": "1.0.10-staging.30",
   "notes": "",
-  "pub_date": "2026-04-23T12:40:49.536Z",
+  "pub_date": "2026-04-23T12:42:14.323Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQVpuRjc3S0tQNDBZSmdOampRZFI2TVE0dWhuNlliNWxJdjhjc0tIVWxZWnk5cHVWNUY2WHJTTXlnVzByWWtWSGpDZDk3QmhEdXBhRmZVc2FFRWpPVkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTA4MDEwCWZpbGU6TW94YnkgU3RhZ2luZy5hcHAudGFyLmd6CjMvRDNwQS96azdlTENxUHRwRVlBTXJsYlpCVHNwOW5DcHZjb2x0azZZTU41SGRwR0p5dnNkS1BYZnpLeXdqelIyVFVjREl6RjRHaTZOTytNdnR5R0RRPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQVowUE9CS1FlQVNwT2tLS1NaNzErRWpGZnlJWi9WOVFLSU1zZ1RURGV5MHlpTGZZdXRVUDVzOXlrWE1MY04wYUJ4R1ViU3NlTWtMaUdVNEZRMG94eXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2OTQ3OTY4CWZpbGU6TW94YnkgU3RhZ2luZy5hcHAudGFyLmd6CmN0UzE2YU9iU0xyNTdWZW1LdVl5WjBueEhNcjVaVWh2VjVZSjRmZ3ZEYmtOS2U2RlJvNjczZU5XMUNyRU04MnNwdXZ4b3lFaHZlbWMxYWJiczErZkNBPT0K",
       "url": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/staging-1.0.10/Moxby-Staging_arm64.app.tar.gz"
     },
     "darwin-x86_64": {
