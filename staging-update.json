@@ -1,7 +1,7 @@
 {
   "version": "1.0.53-staging.55",
   "notes": "",
-  "pub_date": "2026-05-01T07:39:00.084Z",
+  "pub_date": "2026-05-01T07:42:41.039Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQWYraC83MDVWM0pVZkE3YmMwVnBBSGE4RWVwY2tYWnRqWkxmOEVCVnY1UlpMVXVUdWlQdkNzaEV3RUMxTjAreitXZUZ3U2paOC9DS0VTVHBIREJXblFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjE4MjY2CWZpbGU6TW94YnkgU3RhZ2luZy5hcHAudGFyLmd6Ck5ZRVh1M1UxcUk0R3c1bXJUQ25xb2d6RVpyR0RaSUhPdFozeTBqQXFzTU1uUEJjS3hjcTg1MGZYVWoxV0lVbGk0QzF1dzNqUUlnOU5vTk1hUXlxM0RBPT0K",
@@ -12,7 +12,7 @@
       "url": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/staging-1.0.53/Moxby-Staging_x64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQWE2cDFHaVpOUHpzK1BkY0Nic05OVUpqTG5zakkrWmJyZlcxRzgzRlVUbUloWGFzdFVldzYzL0RPeDV0bEVjMjBEdWxNRFNuL0pTYkV3ZXdxRDFNUGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjA3OTc2CWZpbGU6TW94YnkgU3RhZ2luZ18xLjAuNTMtc3RhZ2luZy41M194NjQtc2V0dXAuZXhlCklGamJ5a0pUMFlnbzhFZ1BoTUNVNjRsODRLb3NOWHdsY1VGaWhVVWcwdWd3S2xEOExEQTZodk14OFpkcHRxWEllbGt0TXhZV3YyRVQvNGR3clM3dERBPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQWR2NFdxMmZTMHlPWktZVGxEUnZ1RTRXU1NDLzZ6SHQrNmRuZlVFTlF1dHI4bjc0Z2JWcFBESmlXN1FGNkZPWFZiMkhjMkRiNCtWZFlLMWc5MnNacHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NjIwOTk4CWZpbGU6TW94YnkgU3RhZ2luZ18xLjAuNTMtc3RhZ2luZy41NV94NjQtc2V0dXAuZXhlCnlwTTVtY3QrQ0RGN1JndzVaTlFsTXd0TlZkQitPQ1FHTmcwWkpQRnZxNXVNNTRZcGR1N2ZiNG43dysvZS9TNnd5Z1RvRU80NTFiV3BZUEhURXJRTUF3PT0K",
       "url": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/staging-1.0.53/Moxby-Staging_x64-setup.exe"
     },
     "windows-aarch64": {
