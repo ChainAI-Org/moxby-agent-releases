@@ -1,7 +1,7 @@
 {
   "version": "2.1.0",
   "notes": "",
-  "pub_date": "2026-06-29T02:56:45.373Z",
+  "pub_date": "2026-06-29T04:11:41.110Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQWUrTDVlRnQ0anRuMU8xUkNNNVYrcXFyYko4aWdFdFVoeUpITFpEQzBJOGVVeE5oUkJHamlydXZPaFdnYnhpOURjR3RnUS92SUJQWlZpNWlRQTV1emdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjk2MTU3CWZpbGU6TW94YnkuYXBwLnRhci5negpVZzA3eXUrRU1VZlVGUG1naE9sRDVyUmcvYVlsZk5PMTF6dkFLTnJ6QzRQUU9IMGdmZkM4SkNkbFRaUzZzTUZFNkdDemgwMWQ5Mkxta04xTk5uaTZDdz09Cg==",
@@ -9,7 +9,7 @@
       "version": "2.1.0"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQVppSUZodzFNR21yVndDTmxDRXZBL24yWmM2MGtvMHJtSi9USlFXVGFhc0srR3RWbHNlaGlXVTlmbkFMVmo4ejkzdTlhUUpsS1FnbDNsaEZ6cWFLcUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNjk3MzY0CWZpbGU6TW94YnkuYXBwLnRhci5negpaSEpwSHA5WWd1UlVkZjJTSW5xUkVMQjdDVUpybUgxY3RmR0pyS2dKKzBSbWxnM3p0ank5UFJQS1dHb2VxWDgyK0lyVHhUVVFCZlVhUXZDak04QUNDUT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQWJPbTFUUlkwYzNsemNrajZzRFd5UTJRbHFGN0QwK3Y1N2cyKythd3hYWk1RM3QvNWpQdVQrWURrUjVIYXNqZWhTK0dJblBjY2J6R3VNdjlKOEdrS2dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzA2MTQ2CWZpbGU6TW94YnkuYXBwLnRhci5negplamtHUHU0ZHdBbEwzdHQvWVZhcm9FMUg2QTNXZkR3K1dobnM3RHRUbmRMWHB3T3ZQc0R5UnY1OUtGNm1OcEtsM1Y3VDhIOHFtV0lXZ29zS3doaFBDQT09Cg==",
       "url": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/v2.1.0/Moxby_x64.app.tar.gz",
       "version": "2.1.0"
     },
