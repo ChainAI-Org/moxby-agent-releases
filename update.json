@@ -1,7 +1,7 @@
 {
   "version": "2.1.0",
   "notes": "",
-  "pub_date": "2026-06-29T05:08:08.631Z",
+  "pub_date": "2026-06-29T05:46:58.143Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQVlaL0lUdjFNeUdkaVl5QnB5alYvNEhpemJyZFN3R3h3RWpaRElIK2lkbXJtRFphdlB1d3dIL0VlY2JqOExtWWxRYUxRQ1lxWU9SblJzNVFGbXJlY1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzA3MzM3CWZpbGU6TW94YnkuYXBwLnRhci5negowVXBCOFFuWHRpN1hpVTFJRnloVEdYSHo0NHlDOW9WcTR4QUszZ3J5N0xBTzlmYUNYZ0Ewd1liamRhdVVXUGdxR2ZLdTRyRE1VNGxCcWpmZ04ybFhDZz09Cg==",
@@ -19,7 +19,7 @@
       "version": "2.1.0"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQWZzUS8rOUIzM0U0VytxNitGMlljK2c0QndmRllhdVBMbG1kenRXWU9wRjl6bEJVYVhJTzRyUldmeCtsV01tWWxpMHBtOFRCL0o2dXc3d05ROGlVQndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzAxNjI4CWZpbGU6TW94YnlfMi4xLjBfYXJtNjQtc2V0dXAuZXhlCnBuKy9PR09nSmFZUHhpV3pZR0RZNnNWaWk3SFFnbWE3Z2VBOUNYTS9DNUVFeTcxRTNvK0dHSVBNeWJHeERlcWNnZENpeGdzU09kY2pCQzFDZytSSUNRPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQVdmNklCdzZMZUhNbHFmR0I5V0tQVUdiUG5lWDFCTU41Qlh3WVlvaUZMLzNYZllLMVRGVHRpak52b3FscmlLa0FoMWVReXl6ME41cjduK3dEUDRRcVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzExNzI3CWZpbGU6TW94YnlfMi4xLjBfYXJtNjQtc2V0dXAuZXhlCkFkMTVJUFYvTW1jSld2Uy82OTVhRm9DRExEQk1kOGNqQ2FlcndiRkk2YWg5M3FrdmJIQzFwMkxFTDRoOEk1eVFRaEFOMkE4dnZObFA4TjRucEk2K0RnPT0K",
       "url": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/v2.1.0/Moxby_arm64-setup.exe",
       "version": "2.1.0"
     }
