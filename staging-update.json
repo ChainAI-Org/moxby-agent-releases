@@ -1,7 +1,7 @@
 {
   "version": "2.2.0-staging.76",
   "notes": "",
-  "pub_date": "2026-07-01T06:35:00.219Z",
+  "pub_date": "2026-07-01T06:48:23.896Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQWJBV251Y1YyeGtiRDZMeFdBMDMvRm4vb2VxZWtPalozV3lpSHVland1ZmNLY0VJZEsyaWJVTExWS0ZhRjg1SEJsNVp1ajRNdTdpdFY1OHFjakl0TXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODg3NjA4CWZpbGU6TW94YnkgU3RhZ2luZy5hcHAudGFyLmd6CkpwUWI2Z0lWT3ZXZlE2V3JkY2M5Y2xla2JoZ0RNNXU1RVJpR2RwRVdoYlBSRmhIN1ZJTkpuV0QzbVFYeUpoUWh3VDhSczNHYUxybGVydDNPNlpjT0NRPT0K",
@@ -9,9 +9,9 @@
       "version": "2.2.0-staging.76"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQVplTWJmU3VKS0cyVkdsMEhxMjJNWjRRNVlwUU5kbnlVOEVHL2NKVGgxQ0hwZmxCaXVzcCtpNm1GUG1rcTdUV1cwRnZlNFZpVUFYRm5lZi9WK2g5emdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODI4ODAyCWZpbGU6TW94YnkgU3RhZ2luZy5hcHAudGFyLmd6CkloMFUyUFNwUFpMWnpnU2UvTURHeTdhOG01VFlDSGg5ekllcldjd1Y5M1FUMDZxR3pBOURmbmh5dUwraVp5cGpBcmFVSFFCYlpMbjVSeVkyZjk1T0NRPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQVJaVk8wYVNzekd3Y1NjUy9qRTlCTC9zYXd1Q0Zib2ZwdGkyc2lIR3JRTGhEUm53K2ZXT0NNY0llRzJjbVVLeXpRb1NUUGhWbThpYXR6ejA2b1VYN1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODg4Mzk0CWZpbGU6TW94YnkgU3RhZ2luZy5hcHAudGFyLmd6ClBWdUFFZzJzNlVwcjdvOWZlamdPRUk1K3h4ZFdIOVNpSGlZWEJIUlFBVVpVc3JSMkdpMzFsa0VabGVMbm9HTTBETU9MeXdqVlRVdVdybjBaZHNCc0JBPT0K",
       "url": "https://github.com/ChainAI-Org/moxby-agent-releases/releases/download/staging-2.2.0/Moxby-Staging_x64.app.tar.gz",
-      "version": "2.2.0-staging.75"
+      "version": "2.2.0-staging.76"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSclNrVWZ5VXlNQWR5SzVRb3VFRllXZE0veGlGWGZORzVQelRMdHFzNExxWUNJQkN1Z2xDOVAwTFhGanBtYlhMT2RrL0R6NHNpRHpzbGw4M3g3MlpWYjBCNTZEZ3NhY2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODA5MTkwCWZpbGU6TW94YnkgU3RhZ2luZ18yLjEuMC1zdGFnaW5nLjc0X3g2NC1zZXR1cC5leGUKYWUyK2pqOWpKR0h3b3hER25wRUI4T0Izd3NjcHczc1hFZDczcXF3UHF5OE9BT0FHQngrYzllTURGTmlWUG5RdW1UYUVEWjgzS3M4RGd4cDVUU0pTQ2c9PQo=",
